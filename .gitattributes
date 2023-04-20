@@ -1,1 +1,4 @@
 *.app filter=lfs diff=lfs merge=lfs -text
+John_Lemon’s_Haunted_Jaunt filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Rollaball filter=lfs diff=lfs merge=lfs -text
